@@ -4,10 +4,10 @@
 **Technologies Used:** Angular, Node.js, TypeScript, Microsoft SQL Server 2016, VB.NET (web-services)  
 
 ## Overview
-This repository contains high-level reports documenting outstanding contributions during my year-long placement at St. Teresa's Hospital IT Department. Reports highlight:
+This repository contains high-level reports documenting outstanding contributions during my year-long St. Teresa's Hospital IT Department placement. Reports highlight:
 1. **Lab Information System (LIS) Overhaul**  
-   - Digitalize manual workflow on Referral Log Status module
-   - Optimize Patient Search performance by dividing into different reponsibilities
+   - Digitalize manual workflow on the Referral Log Status module
+   - Optimize Patient Search performance by dividing it into different responsibilities
 2. **Radiology System (RIS) Bridge**  
    - VB.NET replacement for vendor system
 
