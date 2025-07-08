@@ -14,4 +14,4 @@ This repository contains monthly progress reports documenting my year-long place
 ## Disclaimer
 - Reports are redacted to protect hospital operations
 - No patient data or sensitive information is included
-- Focuses on technical implementations and professional growth
+- Focuses on high-level implementations and professional growth
