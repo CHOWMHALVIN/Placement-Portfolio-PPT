@@ -5,7 +5,7 @@
 
 ## Overview
 This repository contains high-level reports documenting outstanding contributions during my year-long St. Teresa's Hospital IT Department placement. Reports highlight:
-1. **Lab Information System (LIS) Overhaul**  
+1. **Lab Information System (LIS) Enhancements**  
    - Digitalize manual workflow on the Referral Log Status module
    - Optimize Patient Search performance by dividing it into different responsibilities
 2. **Radiology System (RIS) Bridge**  
